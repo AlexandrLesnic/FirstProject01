@@ -2,7 +2,7 @@ package JAVA;
 
 import java.sql.SQLOutput;
 
-public class HW_ {
+public class HW_18052023 {
     public static void main(String[] args) {
         /* 1.Есть стринг I love java */
         String text="I LOVE JAVA";
